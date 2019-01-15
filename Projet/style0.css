@@ -1,0 +1,12 @@
+tr, th {
+  text-align: center;
+}
+.table-red {
+  color: red;
+}
+.table-green {
+  color: green;
+}
+.center {
+  text-align: center;
+}
