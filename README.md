@@ -3,6 +3,7 @@
 Ce site a été imaginé pour un restaurant italien fictif. Ce projet nous a été proposé en classe.
 
 Voici quelques photos du site : 
+![accueil](https://user-images.githubusercontent.com/43983858/54766761-29677a80-4bfc-11e9-83a4-5e7835defb78.png)
 ![2019-03-14](https://user-images.githubusercontent.com/43983858/54766624-e4dbdf00-4bfb-11e9-99a1-538cea2585cc.png)
 ![2019-03-14 (2)](https://user-images.githubusercontent.com/43983858/54766485-9fb7ad00-4bfb-11e9-954d-b60d99dba7a7.png)
 ![2019-03-14 (3)](https://user-images.githubusercontent.com/43983858/54766486-9fb7ad00-4bfb-11e9-8b3a-0e32e3dbbbec.png)
